@@ -9,3 +9,8 @@ button {
     background: yellow;
     color: black;
 }
+
+song-table {
+    padding: 3px;
+    background-color: gold;
+}
